@@ -1,3 +1,6 @@
+
+![image](https://user-images.githubusercontent.com/89052474/230959777-d5a3ab36-fb2e-491b-8e7f-5e5332a818af.png)
+
 # vuejs-tailwind-app
 
 ## Project setup
